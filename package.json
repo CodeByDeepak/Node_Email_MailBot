@@ -1,0 +1,24 @@
+{
+  "name": "backend-assignment",
+  "version": "1.0.0",
+  "description": "This is simple email watcher script, that will help to watch gmail and send automatic reply",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deepak",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "google-auth-library": "^8.9.0",
+    "googleapis": "^120.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "na"
+  },
+  "keywords": [
+    "na"
+  ]
+}
